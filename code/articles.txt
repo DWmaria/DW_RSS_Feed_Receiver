@@ -1,0 +1,601 @@
+{
+  "oid": "56849640",
+  "title": "Goodwill Zwelithini, der K\u00f6nig der Zulu, ist tot",
+  "link": "https://www.dw.com/de/goodwill-zwelithini-der-k\u00f6nig-der-zulu-ist-tot/a-56849640?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-12T11:55:00Z",
+  "language": "de"
+}{
+  "oid": "56847706",
+  "title": "Corona-Pandemie: Brasilien f\u00fcrchtet den Kontrollverlust",
+  "link": "https://www.dw.com/de/corona-pandemie-brasilien-f\u00fcrchtet-den-kontrollverlust/a-56847706?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-12T11:34:00Z",
+  "language": "de"
+}{
+  "oid": "56847595",
+  "title": "Britische EU-Exporte brechen drastisch ein",
+  "link": "https://www.dw.com/de/britische-eu-exporte-brechen-drastisch-ein/a-56847595?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-12T10:17:00Z",
+  "language": "de"
+}{
+  "oid": "56846541",
+  "title": "AKK will China im Indopazifik eind\u00e4mmen",
+  "link": "https://www.dw.com/de/akk-will-china-im-indopazifik-eind\u00e4mmen/a-56846541?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-12T09:36:00Z",
+  "language": "de"
+}{
+  "oid": "56846656",
+  "title": "USA: Ringen um Iran-Strategie",
+  "link": "https://www.dw.com/de/usa-ringen-um-iran-strategie/a-56846656?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-12T08:50:00Z",
+  "language": "de"
+}{
+  "oid": "56812379",
+  "title": "In Reichweite \u2013 Ein Grammy f\u00fcr die Deutsche Oper Berlin?",
+  "link": "https://www.dw.com/de/in-reichweite-ein-grammy-f\u00fcr-die-deutsche-oper-berlin/a-56812379?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-12T08:41:00Z",
+  "language": "de"
+}{
+  "oid": "56703434",
+  "title": "Teflon und ewige Chemikalien: verstecktes Gift im K\u00f6rper",
+  "link": "https://www.dw.com/de/teflon-und-ewige-chemikalien-verstecktes-gift-im-k\u00f6rper/a-56703434?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-12T08:16:00Z",
+  "language": "de"
+}{
+  "oid": "56845956",
+  "title": "Thailand schiebt AstraZeneca-Impfungen auf",
+  "link": "https://www.dw.com/de/thailand-schiebt-astrazeneca-impfungen-auf/a-56845956?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-12T07:31:00Z",
+  "language": "de"
+}{
+  "oid": "56831232",
+  "title": "Junge T\u00fcrken und ihr Sehnsuchtsort Deutschland",
+  "link": "https://www.dw.com/de/junge-t\u00fcrken-und-ihr-sehnsuchtsort-deutschland/a-56831232?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-12T07:18:00Z",
+  "language": "de"
+}{
+  "oid": "56836481",
+  "title": "Ischgl: Ein Skiort ringt um sein Image",
+  "link": "https://www.dw.com/de/ischgl-ein-skiort-ringt-um-sein-image/a-56836481?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-12T07:10:00Z",
+  "language": "de"
+}{
+  "oid": "56839100",
+  "title": "Corona: Masken, Impfen, Tests - Was ist los, Deutschland?",
+  "link": "https://www.dw.com/de/corona-masken-impfen-tests-was-ist-los-deutschland/a-56839100?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-12T03:28:00Z",
+  "language": "de"
+}{
+  "oid": "56845371",
+  "title": "EU erkl\u00e4rt sich zur \"Freiheitszone f\u00fcr LGBTIQ\"",
+  "link": "https://www.dw.com/de/eu-erkl\u00e4rt-sich-zur-freiheitszone-f\u00fcr-lgbtiq/a-56845371?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-12T01:02:00Z",
+  "language": "de"
+}{
+  "oid": "56845279",
+  "title": "212 Jahre Haft f\u00fcr Versicherungsbetr\u00fcger in Kalifornien",
+  "link": "https://www.dw.com/de/212-jahre-haft-f\u00fcr-versicherungsbetr\u00fcger-in-kalifornien/a-56845279?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-12T00:31:00Z",
+  "language": "de"
+}{
+  "oid": "56819610",
+  "title": "Das Leiden der Generation \"Corona-Kokon\"",
+  "link": "https://www.dw.com/de/das-leiden-der-generation-corona-kokon/a-56819610?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T22:10:00Z",
+  "language": "de"
+}{
+  "oid": "56844803",
+  "title": "US-Pr\u00e4sident Biden gibt Billionen-Hilfe frei",
+  "link": "https://www.dw.com/de/us-pr\u00e4sident-biden-gibt-billionen-hilfe-frei/a-56844803?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T22:05:00Z",
+  "language": "de"
+}{
+  "oid": "56841931",
+  "title": "Hat Lukaschenko EU-Gelder zweckentfremdet?",
+  "link": "https://www.dw.com/de/hat-lukaschenko-eu-gelder-zweckentfremdet/a-56841931?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T19:55:00Z",
+  "language": "de"
+}{
+  "oid": "56844123",
+  "title": "Vier polnische Bisch\u00f6fe angezeigt",
+  "link": "https://www.dw.com/de/vier-polnische-bisch\u00f6fe-angezeigt/a-56844123?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T18:49:00Z",
+  "language": "de"
+}{
+  "oid": "56843079",
+  "title": "Abschiebungen nach Afrika: Kein Pardon in der Corona-Pandemie",
+  "link": "https://www.dw.com/de/abschiebungen-nach-afrika-kein-pardon-in-der-corona-pandemie/a-56843079?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T17:34:00Z",
+  "language": "de"
+}{
+  "oid": "56840799",
+  "title": "Impfstoff-Zoff: EU exportiert Corona-Impfstoff - auch nach Gro\u00dfbritannien",
+  "link": "https://www.dw.com/de/impfstoff-zoff-eu-exportiert-corona-impfstoff-auch-nach-gro\u00dfbritannien/a-56840799?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T17:20:00Z",
+  "language": "de"
+}{
+  "oid": "56842260",
+  "title": "Tote bei Brand in \u00e4gyptischer Textilfabrik",
+  "link": "https://www.dw.com/de/tote-bei-brand-in-\u00e4gyptischer-textilfabrik/a-56842260?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T16:10:00Z",
+  "language": "de"
+}{
+  "oid": "56834456",
+  "title": "Christie's: 69 Millionen US-Dollar f\u00fcr digitale Beeple-Collage",
+  "link": "https://www.dw.com/de/christie-s-69-millionen-us-dollar-f\u00fcr-digitale-beeple-collage/a-56834456?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T15:00:00Z",
+  "language": "de"
+}{
+  "oid": "56829209",
+  "title": "Studie: Mehr Corona-Infektionen durch Pollenflug?",
+  "link": "https://www.dw.com/de/studie-mehr-corona-infektionen-durch-pollenflug/a-56829209?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T15:00:00Z",
+  "language": "de"
+}{
+  "oid": "56839996",
+  "title": "Joachim L\u00f6w: R\u00fccktritt als Bundestrainer \"zum richtigen Zeitpunkt\"",
+  "link": "https://www.dw.com/de/joachim-l\u00f6w-r\u00fccktritt-als-bundestrainer-zum-richtigen-zeitpunkt/a-56839996?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T14:16:00Z",
+  "language": "de"
+}{
+  "oid": "56839643",
+  "title": "Polen und Ungarn klagen vor dem EuGH",
+  "link": "https://www.dw.com/de/polen-und-ungarn-klagen-vor-dem-eugh/a-56839643?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T13:44:00Z",
+  "language": "de"
+}{
+  "oid": "56836886",
+  "title": "\"Den Menschen ein bisschen Gl\u00fcck und Unbeschwertheit geben\"",
+  "link": "https://www.dw.com/de/den-menschen-ein-bisschen-gl\u00fcck-und-unbeschwertheit-geben/a-56836886?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T13:00:00Z",
+  "language": "de"
+}{
+  "oid": "56537803",
+  "title": "Wie gut ist der Corona-Impfstoff von AstraZeneca?",
+  "link": "https://www.dw.com/de/wie-gut-ist-der-corona-impfstoff-von-astrazeneca/a-56537803?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T12:00:00Z",
+  "language": "de"
+}{
+  "oid": "56837067",
+  "title": "Aufl\u00f6sung:\u00a0Das\u00a0ist Ihr Lieblingsgebirge!\u00a0",
+  "link": "https://www.dw.com/de/aufl\u00f6sung-das-ist-ihr-lieblingsgebirge/a-56837067?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T11:43:00Z",
+  "language": "de"
+}{
+  "oid": "56834288",
+  "title": "China \u00e4ndert das Wahlsystem in Hongkong",
+  "link": "https://www.dw.com/de/china-\u00e4ndert-das-wahlsystem-in-hongkong/a-56834288?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T10:15:00Z",
+  "language": "de"
+}{
+  "oid": "56831644",
+  "title": "Meinung: Chinas Autokraten beenden die Demokratie in Hongkong",
+  "link": "https://www.dw.com/de/meinung-chinas-autokraten-beenden-die-demokratie-in-hongkong/a-56831644?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T09:50:00Z",
+  "language": "de"
+}{
+  "oid": "52444866",
+  "title": "10 Jahre Fukushima: Das Meer als perfektes Endlager f\u00fcr Atomm\u00fcll?",
+  "link": "https://www.dw.com/de/10-jahre-fukushima-das-meer-als-perfektes-endlager-f\u00fcr-atomm\u00fcll/a-52444866?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T09:40:00Z",
+  "language": "de"
+}{
+  "oid": "56616855",
+  "title": "Maja Lunde: Das Jahr hat eine ganze Generation ver\u00e4ndert",
+  "link": "https://www.dw.com/de/maja-lunde-das-jahr-hat-eine-ganze-generation-ver\u00e4ndert/a-56616855?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T09:04:00Z",
+  "language": "de"
+}{
+  "oid": "56799025",
+  "title": "Coupang: Der gr\u00f6\u00dfte B\u00f6rsengang des Jahres",
+  "link": "https://www.dw.com/de/coupang-der-gr\u00f6\u00dfte-b\u00f6rsengang-des-jahres/a-56799025?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T07:48:00Z",
+  "language": "de"
+}{
+  "oid": "56833558",
+  "title": "Tote bei schwerem Busungl\u00fcck auf der Insel Java",
+  "link": "https://www.dw.com/de/tote-bei-schwerem-busungl\u00fcck-auf-der-insel-java/a-56833558?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T07:40:00Z",
+  "language": "de"
+}{
+  "oid": "56786619",
+  "title": "Erfinder des Tango Nuevo: Astor Piazzolla zum 100.",
+  "link": "https://www.dw.com/de/erfinder-des-tango-nuevo-astor-piazzolla-zum-100/a-56786619?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T06:53:00Z",
+  "language": "de"
+}{
+  "oid": "56825801",
+  "title": "Fukushima: Ausl\u00f6ser f\u00fcr die deutsche Energiewende",
+  "link": "https://www.dw.com/de/fukushima-ausl\u00f6ser-f\u00fcr-die-deutsche-energiewende/a-56825801?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-11T03:43:00Z",
+  "language": "de"
+}{
+  "oid": "56832361",
+  "title": "Ivorischer Ministerpr\u00e4sident Bakayoko an Krebs gestorben",
+  "link": "https://www.dw.com/de/ivorischer-ministerpr\u00e4sident-bakayoko-an-krebs-gestorben/a-56832361?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-10T22:58:00Z",
+  "language": "de"
+}{
+  "oid": "56819452",
+  "title": "FC Liverpool f\u00fcr RB Leipzig eine Nummer zu gro\u00df",
+  "link": "https://www.dw.com/de/fc-liverpool-f\u00fcr-rb-leipzig-eine-nummer-zu-gro\u00df/a-56819452?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-10T22:37:00Z",
+  "language": "de"
+}{
+  "oid": "56831667",
+  "title": "US-Kongress billigt gewaltiges Corona-Hilfspaket",
+  "link": "https://www.dw.com/de/us-kongress-billigt-gewaltiges-corona-hilfspaket/a-56831667?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-10T20:13:00Z",
+  "language": "de"
+}{
+  "oid": "56830801",
+  "title": "Afrika: Ein Jahr nach Beginn der Corona-Pandemie",
+  "link": "https://www.dw.com/de/afrika-ein-jahr-nach-beginn-der-corona-pandemie/a-56830801?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-10T19:36:00Z",
+  "language": "de"
+}{
+  "oid": "56830958",
+  "title": "Mehr als 80 Tote nach Brand in Migrantenlager in Jemen",
+  "link": "https://www.dw.com/de/mehr-als-80-tote-nach-brand-in-migrantenlager-in-jemen/a-56830958?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-10T19:34:00Z",
+  "language": "de"
+}{
+  "oid": "56816668",
+  "title": "Wie der K\u00fcnstler Hikaru Fujii an Fukushima erinnert",
+  "link": "https://www.dw.com/de/wie-der-k\u00fcnstler-hikaru-fujii-an-fukushima-erinnert/a-56816668?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-10T18:57:00Z",
+  "language": "de"
+}{
+  "oid": "56829523",
+  "title": "UNICEF: Millionen syrische Kinder brauchen dringend Hilfe",
+  "link": "https://www.dw.com/de/unicef-millionen-syrische-kinder-brauchen-dringend-hilfe/a-56829523?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-10T16:57:00Z",
+  "language": "de"
+}{
+  "oid": "56827617",
+  "title": "Kontroverse um L\u00fcbecker Impfstoff-Erfinder Winfried St\u00f6cker",
+  "link": "https://www.dw.com/de/kontroverse-um-l\u00fcbecker-impfstoff-erfinder-winfried-st\u00f6cker/a-56827617?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-10T15:47:00Z",
+  "language": "de"
+}{
+  "oid": "56812302",
+  "title": "Thomas Bach wiedergew\u00e4hlt - der Taktiker auf dem IOC-Thron",
+  "link": "https://www.dw.com/de/thomas-bach-wiedergew\u00e4hlt-der-taktiker-auf-dem-ioc-thron/a-56812302?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-10T15:30:00Z",
+  "language": "de"
+}{
+  "oid": "56828134",
+  "title": "Rekordjagd an der B\u00f6rse - bis zum Crash?",
+  "link": "https://www.dw.com/de/rekordjagd-an-der-b\u00f6rse-bis-zum-crash/a-56828134?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-10T15:18:00Z",
+  "language": "de"
+}{
+  "oid": "56827971",
+  "title": "Corona-Pandemie erh\u00f6ht soziale Ungleichheit",
+  "link": "https://www.dw.com/de/corona-pandemie-erh\u00f6ht-soziale-ungleichheit/a-56827971?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-10T15:17:00Z",
+  "language": "de"
+}{
+  "oid": "56827111",
+  "title": "Warteraum Mexiko: Wenn die Flucht in die USA misslingt",
+  "link": "https://www.dw.com/de/warteraum-mexiko-wenn-die-flucht-in-die-usa-misslingt/a-56827111?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-10T15:05:00Z",
+  "language": "de"
+}{
+  "oid": "56383605",
+  "title": "Post-Pandemie: Wenn wir uns wieder umarmen...",
+  "link": "https://www.dw.com/de/post-pandemie-wenn-wir-uns-wieder-umarmen/a-56383605?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-10T14:12:00Z",
+  "language": "de"
+}{
+  "oid": "56824570",
+  "title": "Meghan und Harry: Schon fr\u00fcher Rassismus im K\u00f6nigshaus?",
+  "link": "https://www.dw.com/de/meghan-und-harry-schon-fr\u00fcher-rassismus-im-k\u00f6nigshaus/a-56824570?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-10T12:25:00Z",
+  "language": "de"
+}{
+  "oid": "56825675",
+  "title": "Meinung: Ohne Verhandlungen droht Myanmar der Abgrund",
+  "link": "https://www.dw.com/de/meinung-ohne-verhandlungen-droht-myanmar-der-abgrund/a-56825675?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-10T11:30:00Z",
+  "language": "de"
+}{
+  "oid": "56823801",
+  "title": "Ein restriktives Abtreibungsverbot f\u00fcr Arkansas",
+  "link": "https://www.dw.com/de/ein-restriktives-abtreibungsverbot-f\u00fcr-arkansas/a-56823801?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-10T10:17:00Z",
+  "language": "de"
+}{
+  "oid": "56818519",
+  "title": "Nach dem Terror die Cholera: Fl\u00fcchtlinge in Mosambik",
+  "link": "https://www.dw.com/de/nach-dem-terror-die-cholera-fl\u00fcchtlinge-in-mosambik/a-56818519?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-10T09:54:00Z",
+  "language": "de"
+}{
+  "oid": "56819873",
+  "title": "KP schw\u00f6rt China auf Hightech-Zukunft ein",
+  "link": "https://www.dw.com/de/kp-schw\u00f6rt-china-auf-hightech-zukunft-ein/a-56819873?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-10T09:19:00Z",
+  "language": "de"
+}{
+  "oid": "56812705",
+  "title": "Autoreifen aus L\u00f6wenzahn\u00a0- eine\u00a0\u00f6kologische\u00a0Alternative?",
+  "link": "https://www.dw.com/de/autoreifen-aus-l\u00f6wenzahn-eine-\u00f6kologische-alternative/a-56812705?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-10T08:16:00Z",
+  "language": "de"
+}{
+  "oid": "56816688",
+  "title": "Zensur mit VPN umgehen - ist das \u00fcberhaupt sicher?",
+  "link": "https://www.dw.com/de/zensur-mit-vpn-umgehen-ist-das-\u00fcberhaupt-sicher/a-56816688?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-10T03:02:00Z",
+  "language": "de"
+}{
+  "oid": "56813137",
+  "title": "Gender Pay Gap: Es bleibt kompliziert",
+  "link": "https://www.dw.com/de/gender-pay-gap-es-bleibt-kompliziert/a-56813137?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-10T03:02:00Z",
+  "language": "de"
+}{
+  "oid": "56812650",
+  "title": "Dortmund besiegt Sevilla und steht im Champions-League-Viertelfinale",
+  "link": "https://www.dw.com/de/dortmund-besiegt-sevilla-und-steht-im-champions-league-viertelfinale/a-56812650?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-09T22:50:00Z",
+  "language": "de"
+}{
+  "oid": "56819607",
+  "title": "Russland und China wollen Mondstation bauen",
+  "link": "https://www.dw.com/de/russland-und-china-wollen-mondstation-bauen/a-56819607?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-09T17:31:00Z",
+  "language": "de"
+}{
+  "oid": "56812979",
+  "title": "Bericht: Syrische Kliniken immer wieder gezielt angegriffen",
+  "link": "https://www.dw.com/de/bericht-syrische-kliniken-immer-wieder-gezielt-angegriffen/a-56812979?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-09T17:02:00Z",
+  "language": "de"
+}{
+  "oid": "56818749",
+  "title": "Bundesregierung will Teilhabe Zugezogener f\u00f6rdern",
+  "link": "https://www.dw.com/de/bundesregierung-will-teilhabe-zugezogener-f\u00f6rdern/a-56818749?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-09T15:59:00Z",
+  "language": "de"
+}{
+  "oid": "56812666",
+  "title": "Zehn Jahre nach der Atomkatastrophe in Fukushima",
+  "link": "https://www.dw.com/de/zehn-jahre-nach-der-atomkatastrophe-in-fukushima/a-56812666?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-09T13:52:00Z",
+  "language": "de"
+}{
+  "oid": "56815803",
+  "title": "Myanmars Milit\u00e4r macht massiv Druck auf die Presse",
+  "link": "https://www.dw.com/de/myanmars-milit\u00e4r-macht-massiv-druck-auf-die-presse/a-56815803?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-09T13:06:00Z",
+  "language": "de"
+}{
+  "oid": "56814864",
+  "title": "Meinung: L\u00f6w-R\u00fccktritt - \"h\u00f6gschde\" Zeit, falscher Zeitpunkt",
+  "link": "https://www.dw.com/de/meinung-l\u00f6w-r\u00fccktritt-h\u00f6gschde-zeit-falscher-zeitpunkt/a-56814864?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-09T12:04:00Z",
+  "language": "de"
+}{
+  "oid": "56758345",
+  "title": "Glaube und Umwelt - wie gr\u00fcn sind die Kirchen in Deutschland?",
+  "link": "https://www.dw.com/de/glaube-und-umwelt-wie-gr\u00fcn-sind-die-kirchen-in-deutschland/a-56758345?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-09T10:49:00Z",
+  "language": "de"
+}{
+  "oid": "56803887",
+  "title": "Endlose Dekontaminierung in Fukushima",
+  "link": "https://www.dw.com/de/endlose-dekontaminierung-in-fukushima/a-56803887?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-09T08:01:00Z",
+  "language": "de"
+}{
+  "oid": "56784865",
+  "title": "ITB: Nachhaltigeres Reisen nach Corona?",
+  "link": "https://www.dw.com/de/itb-nachhaltigeres-reisen-nach-corona/a-56784865?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-09T07:09:00Z",
+  "language": "de"
+}{
+  "oid": "56811696",
+  "title": "EU-Bericht sieht Deutschland im Fokus russischer Desinformation",
+  "link": "https://www.dw.com/de/eu-bericht-sieht-deutschland-im-fokus-russischer-desinformation/a-56811696?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-09T03:55:00Z",
+  "language": "de"
+}{
+  "oid": "56810715",
+  "title": "Senegal: Erst Anklage, dann Freilassung des Oppositionsf\u00fchrers",
+  "link": "https://www.dw.com/de/senegal-erst-anklage-dann-freilassung-des-oppositionsf\u00fchrers/a-56810715?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-08T21:26:00Z",
+  "language": "de"
+}{
+  "oid": "56807220",
+  "title": "Strafgerichtshof spricht Kriegsopfern im Kongo 30 Millionen Dollar zu",
+  "link": "https://www.dw.com/de/strafgerichtshof-spricht-kriegsopfern-im-kongo-30-millionen-dollar-zu/a-56807220?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-08T14:39:00Z",
+  "language": "de"
+}{
+  "oid": "56806414",
+  "title": "Porsche will Benzin so gr\u00fcn machen wie den E-Antrieb",
+  "link": "https://www.dw.com/de/porsche-will-benzin-so-gr\u00fcn-machen-wie-den-e-antrieb/a-56806414?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-08T14:21:00Z",
+  "language": "de"
+}{
+  "oid": "56805926",
+  "title": "Syriens Pr\u00e4sident Baschar al-Assad positiv auf Corona getestet",
+  "link": "https://www.dw.com/de/syriens-pr\u00e4sident-baschar-al-assad-positiv-auf-corona-getestet/a-56805926?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-08T13:18:00Z",
+  "language": "de"
+}{
+  "oid": "56769166",
+  "title": "Der kleine virenfreie Blechkollege",
+  "link": "https://www.dw.com/de/der-kleine-virenfreie-blechkollege/a-56769166?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-08T11:02:00Z",
+  "language": "de"
+}{
+  "oid": "56785404",
+  "title": "\"Deutsche Firmen haben viel aufzuholen\"",
+  "link": "https://www.dw.com/de/deutsche-firmen-haben-viel-aufzuholen/a-56785404?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-08T07:35:00Z",
+  "language": "de"
+}{
+  "oid": "56750813",
+  "title": "Fukushima, die verlorene \"Gl\u00fccksinsel\"",
+  "link": "https://www.dw.com/de/fukushima-die-verlorene-gl\u00fccksinsel/a-56750813?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-08T07:03:00Z",
+  "language": "de"
+}{
+  "oid": "56788034",
+  "title": "DR Kongo: Wie Faida zur Miliz-K\u00e4mpferin wurde",
+  "link": "https://www.dw.com/de/dr-kongo-wie-faida-zur-miliz-k\u00e4mpferin-wurde/a-56788034?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-08T02:05:00Z",
+  "language": "de"
+}{
+  "oid": "56801195",
+  "title": "Attacke auf das \"Herz von Saudi-Arabien\"",
+  "link": "https://www.dw.com/de/attacke-auf-das-herz-von-saudi-arabien/a-56801195?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-08T00:09:00Z",
+  "language": "de"
+}{
+  "oid": "56796165",
+  "title": "Meinung: Internationaler Frauentag - Was soll ich feiern?",
+  "link": "https://www.dw.com/de/meinung-internationaler-frauentag-was-soll-ich-feiern/a-56796165?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-07T23:28:00Z",
+  "language": "de"
+}{
+  "oid": "56799561",
+  "title": "Papst Franziskus im Irak: \"Jede Friedensgeste ist willkommen\"",
+  "link": "https://www.dw.com/de/papst-franziskus-im-irak-jede-friedensgeste-ist-willkommen/a-56799561?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-07T17:44:00Z",
+  "language": "de"
+}{
+  "oid": "56771762",
+  "title": "Ohne Fleisch und Milch: Darf ich mein Kind vegan ern\u00e4hren?",
+  "link": "https://www.dw.com/de/ohne-fleisch-und-milch-darf-ich-mein-kind-vegan-ern\u00e4hren/a-56771762?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-07T12:00:00Z",
+  "language": "de"
+}{
+  "oid": "56770832",
+  "title": "Faktencheck: Wie gro\u00df ist die Gefahr, sich im Freien mit Corona anzustecken wirklich?",
+  "link": "https://www.dw.com/de/faktencheck-wie-gro\u00df-ist-die-gefahr-sich-im-freien-mit-corona-anzustecken-wirklich/a-56770832?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-07T03:16:00Z",
+  "language": "de"
+}{
+  "oid": "56769576",
+  "title": "Weltraumtourismus: Ich will mit zum Mond!",
+  "link": "https://www.dw.com/de/weltraumtourismus-ich-will-mit-zum-mond/a-56769576?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-05T12:08:00Z",
+  "language": "de"
+}{
+  "oid": "56751332",
+  "title": "Wie Afrika \u00fcber Afrika berichtet",
+  "link": "https://www.dw.com/de/wie-afrika-\u00fcber-afrika-berichtet/a-56751332?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-03T13:27:00Z",
+  "language": "de"
+}{
+  "oid": "56740739",
+  "title": "Leiden der Zivilbev\u00f6lkerung in Mosambiks Norden: Entf\u00fchrung und Mord",
+  "link": "https://www.dw.com/de/leiden-der-zivilbev\u00f6lkerung-in-mosambiks-norden-entf\u00fchrung-und-mord/a-56740739?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-02T00:05:00Z",
+  "language": "de"
+}{
+  "oid": "56736422",
+  "title": "Ist das Ende der Corona-Pandemie in Sicht?",
+  "link": "https://www.dw.com/de/ist-das-ende-der-corona-pandemie-in-sicht/a-56736422?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-01T15:08:00Z",
+  "language": "de"
+}{
+  "oid": "56716413",
+  "title": "CAF: Afrikas Fu\u00dfball am Scheideweg",
+  "link": "https://www.dw.com/de/caf-afrikas-fu\u00dfball-am-scheideweg/a-56716413?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-03-01T11:11:00Z",
+  "language": "de"
+}{
+  "oid": "56730630",
+  "title": "Mahamane Ousmane: \"Aus Ungerechtigkeit entstehen Frustration und Revolte\"",
+  "link": "https://www.dw.com/de/mahamane-ousmane-aus-ungerechtigkeit-entstehen-frustration-und-revolte/a-56730630?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-02-28T17:56:00Z",
+  "language": "de"
+}{
+  "oid": "56661930",
+  "title": "Sex and the Body \u2013 jetzt mal Klartext!",
+  "link": "https://www.dw.com/de/sex-and-the-body-jetzt-mal-klartext/a-56661930?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-02-26T14:36:00Z",
+  "language": "de"
+}{
+  "oid": "56702091",
+  "title": "Golfstrom-Abschw\u00e4chung bedroht das nordatlantische Klimasystem",
+  "link": "https://www.dw.com/de/golfstrom-abschw\u00e4chung-bedroht-das-nordatlantische-klimasystem/a-56702091?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-02-25T16:00:00Z",
+  "language": "de"
+}{
+  "oid": "56546742",
+  "title": "Kenias Nationalspieler Johanna Omolo: \"Bleibt in Afrika!\"",
+  "link": "https://www.dw.com/de/kenias-nationalspieler-johanna-omolo-bleibt-in-afrika/a-56546742?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-02-25T10:16:00Z",
+  "language": "de"
+}{
+  "oid": "56658715",
+  "title": "Bildungsstudie: Sinti und Roma immer noch benachteiligt",
+  "link": "https://www.dw.com/de/bildungsstudie-sinti-und-roma-immer-noch-benachteiligt/a-56658715?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-02-24T16:26:00Z",
+  "language": "de"
+}{
+  "oid": "56647504",
+  "title": "Luna und die syrischen Folterer",
+  "link": "https://www.dw.com/de/luna-und-die-syrischen-folterer/a-56647504?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-02-23T15:46:00Z",
+  "language": "de"
+}{
+  "oid": "56661754",
+  "title": "Beate Gilles zur Generalsekret\u00e4rin der Bischofskonferenz gew\u00e4hlt",
+  "link": "https://www.dw.com/de/beate-gilles-zur-generalsekret\u00e4rin-der-bischofskonferenz-gew\u00e4hlt/a-56661754?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-02-23T14:56:00Z",
+  "language": "de"
+}{
+  "oid": "56606772",
+  "title": "Gesucht: Bezahlbare Wohnung in der Gro\u00dfstadt",
+  "link": "https://www.dw.com/de/gesucht-bezahlbare-wohnung-in-der-gro\u00dfstadt/a-56606772?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-02-23T00:12:00Z",
+  "language": "de"
+}{
+  "oid": "56655827",
+  "title": "Kritik an Schul\u00f6ffnung: \u00dcbereilt und unvorbereitet",
+  "link": "https://www.dw.com/de/kritik-an-schul\u00f6ffnung-\u00fcbereilt-und-unvorbereitet/a-56655827?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-02-22T19:24:00Z",
+  "language": "de"
+}{
+  "oid": "56538930",
+  "title": "Briefwahlboom im Superwahljahr",
+  "link": "https://www.dw.com/de/briefwahlboom-im-superwahljahr/a-56538930?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-02-14T02:37:00Z",
+  "language": "de"
+}{
+  "oid": "56539532",
+  "title": "Vorwurf Polizeigewalt: 11-J\u00e4hriger in Handschellen",
+  "link": "https://www.dw.com/de/vorwurf-polizeigewalt-11-j\u00e4hriger-in-handschellen/a-56539532?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-02-11T22:04:00Z",
+  "language": "de"
+}{
+  "oid": "56467859",
+  "title": "Darum ist der Johnson & Johnson-Impfstoff so begehrt",
+  "link": "https://www.dw.com/de/darum-ist-der-johnson-johnson-impfstoff-so-begehrt/a-56467859?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-02-05T12:26:00Z",
+  "language": "de"
+}{
+  "oid": "56306446",
+  "title": "Corona: Die Deutschen kommen auf den Hund",
+  "link": "https://www.dw.com/de/corona-die-deutschen-kommen-auf-den-hund/a-56306446?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-01-22T10:49:00Z",
+  "language": "de"
+}{
+  "oid": "56212283",
+  "title": "Impfen als Politikum - ein Blick in die Geschichte",
+  "link": "https://www.dw.com/de/impfen-als-politikum-ein-blick-in-die-geschichte/a-56212283?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-01-16T13:21:00Z",
+  "language": "de"
+}{
+  "oid": "55983549",
+  "title": "Deutschland 2021: Zwischen Pandemie und Merkel-Abschied",
+  "link": "https://www.dw.com/de/deutschland-2021-zwischen-pandemie-und-merkel-abschied/a-55983549?maca=de-rss-de-all-1119-rdf",
+  "published": "2021-01-01T09:19:00Z",
+  "language": "de"
+}
