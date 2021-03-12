@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 def dw_english_topStories_rss():
     article_list = []
     try:
-        r = requests.get('https://rss.dw.com/rdf/rss-de-all')
+        r = requests.get('https://rss.dw.com/rdf/rss-en-all')
         soup = BeautifulSoup(r.content, features='xml')
         articles = soup.findAll('item')
         for a in articles:
